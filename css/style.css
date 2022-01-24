@@ -12,3 +12,25 @@ body{
   width: 1440px;
 
 }
+.main-section-card-title{
+  color: #231D4F;
+
+}
+.icon-color{
+  background-color: #d2cff0;
+  color: #231D4F;
+  border-radius: 8px;
+  
+}
+.card-button-color{
+  background: #f496d223;
+  color: #371fecdc;
+
+}
+.highlight-card-hot-text{
+
+  background-color: red;
+  color: white;
+  padding: 5px;
+  border-radius: 15px;
+}
