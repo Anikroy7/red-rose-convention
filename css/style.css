@@ -38,8 +38,23 @@ body{
 }
 /*--------- accordion section style-------- */
 .accordion-section-image{
-  Width :480px;
+  Width :580px;
   Height:350px;
   margin: 20px;
   margin-top: 30px;
 }
+/*-------- footer style -------*/
+.footer-own-style{
+  height: 180px;
+}
+.google-apple-icon{
+  height: 75;
+  width: 155px;
+
+}
+.google-apple-icon-size{
+  height: 40px;
+width: 40px;
+
+}
+
