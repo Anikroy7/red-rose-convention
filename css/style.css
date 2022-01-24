@@ -1,0 +1,14 @@
+  /* google font */
+   
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.heading-color{
+     color: rgb(59, 2, 2);
+}
+.banner-image-size{
+  height: 450px;
+  width: 1440px;
+
+}
