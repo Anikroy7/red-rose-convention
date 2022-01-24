@@ -1,17 +1,19 @@
-  /* google font */
-   
 
+  /* body-font-family */
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* navbar-heading-color */
 .heading-color{
      color: rgb(59, 2, 2);
 }
-.banner-image-size{
+
+.slider-image-size{
   height: 450px;
   width: 1440px;
 
 }
+/*----------- main section style--------- */
 .main-section-card-title{
   color: #231D4F;
 
@@ -33,4 +35,11 @@ body{
   color: white;
   padding: 5px;
   border-radius: 15px;
+}
+/*--------- accordion section style-------- */
+.accordion-section-image{
+  Width :480px;
+  Height:350px;
+  margin: 20px;
+  margin-top: 30px;
 }
